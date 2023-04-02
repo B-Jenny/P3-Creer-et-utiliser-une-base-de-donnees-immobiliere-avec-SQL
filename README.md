@@ -1,3 +1,5 @@
+Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms
+
 # P3-Creer-et-utiliser-une-base-de-donnees-immobiliere-avec-SQL
 
 - Mettre à jour un catalogue de données
