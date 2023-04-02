@@ -1,4 +1,4 @@
-# Creer-et-utiliser-une-base-de-donnees-immobiliere-avec-SQL
+# P3-Creer-et-utiliser-une-base-de-donnees-immobiliere-avec-SQL
 
 ### *Requete 1. Sélection du nombre total d'appartements vendu pour le 1er semestre 2020*
 SELECT COUNT (DISTINCT bien_id) AS "Nombres_appartements"
