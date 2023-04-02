@@ -1,5 +1,11 @@
 # P3-Creer-et-utiliser-une-base-de-donnees-immobiliere-avec-SQL
 
+- Mettre à jour un catalogue de données
+- Créer des tables dans une base de données
+- Effectuer des requêtes SQL pour répondre à une problématique métier
+- Créer le schéma d'une base de données
+- Charger des données dans une base de données
+
 ### *Requete 1. Sélection du nombre total d'appartements vendu pour le 1er semestre 2020*
 SELECT COUNT (DISTINCT bien_id) AS "Nombres_appartements"
 FROM Vente
