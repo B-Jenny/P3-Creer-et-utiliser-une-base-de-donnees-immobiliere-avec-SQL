@@ -2,6 +2,7 @@ Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms
 
 # P3-Creer-et-utiliser-une-base-de-donnees-immobiliere-avec-SQL
 
+Objectifs:
 - Mettre à jour un catalogue de données
 - Créer des tables dans une base de données
 - Effectuer des requêtes SQL pour répondre à une problématique métier
